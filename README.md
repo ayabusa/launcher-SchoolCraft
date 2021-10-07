@@ -10,7 +10,7 @@ pour lancer minecraft ce launcher utilse la librairie [CmlLib.Core](https://gith
 Ce launcher utilise aussi la librairie [Form](https://docs.microsoft.com/fr-fr/dotnet/desktop/winforms/?view=netdesktop-5.0) pour gérer la partie graphique.
 
 ## Credits
-Le Launcher SchoolCraft a été entièrement dévelloper par ayabusa
+Le Launcher SchoolCraft a été entièrement développé par ayabusa
 
 ## Me contacter
 Discord : ayabusa#6813
